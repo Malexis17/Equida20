@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/web/vues/clientConsulter.jsp</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/database/CategVenteDAO.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/servlets/ServletCategorie.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/web/vues/clientAjouter.jsp</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/web/vues/categAjouter.jsp</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/servlets/ServletClient.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/database/ClientDAO.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/formulaires/CategForm.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/database/VenteDAO.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/servlets/ServletVentes.java</file>
+            <file>file:/C:/Users/sio2/Documents/NetBeansProjects/EquidaWeb18/src/java/formulaires/ClientForm.java</file>
+        </group>
+    </open-files>
+</project-private>
